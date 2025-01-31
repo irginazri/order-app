@@ -1,4 +1,4 @@
-# frontend
+# Frontend Vue JS 3 Order App
 
 This template should help get you started developing with Vue 3 in Vite.
 
